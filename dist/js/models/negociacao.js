@@ -1,4 +1,4 @@
-export class negociacao {
+export class Negociacao {
     #data;
     #quantidade;
     #valor;
