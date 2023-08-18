@@ -5,8 +5,5 @@ export class NegociacaoController {
         this.inputValor = document.querySelector("#valor");
     }
     adiciona() {
-        console.log(this.inputData);
-        console.log(this.inputQuantidade);
-        console.log(this.inputValor);
     }
 }
